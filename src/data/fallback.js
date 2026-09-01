@@ -1,6 +1,6 @@
 export const fallbackPortfolio = {
   profile: {
-    name: 'Shoaib Shoukatha',
+    name: 'Shoaib Shoukat',
     title: 'Full Stack Developer',
     tagline:
       'I ship medical platforms, travel apps, booking systems, and AI agents — end to end.',
