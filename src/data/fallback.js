@@ -121,6 +121,8 @@ export const fallbackPortfolio = {
       accent: '#1D4E89',
       year: '2025',
     },
+    {
+      title: 'MediLink Live Consult',
       slug: 'medilink-live-consult',
       category: 'medical',
       summary: 'Live patient–doctor video consulting for online medical care.',
